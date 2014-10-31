@@ -1,0 +1,8 @@
+{
+  "name": "sequence-runners",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.10.1",
+    "body-parser": "~1.9.2"
+  }
+}

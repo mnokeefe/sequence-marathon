@@ -1,8 +1,6 @@
-## Strava IDs
+# Sequence London Marathon App
 
-211868844 Activity ID
-8294116 Sequence Loop segment
-207950558
+Loop leaderboard at `/api/loop`
 
 ## API structure
 

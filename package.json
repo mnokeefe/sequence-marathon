@@ -3,6 +3,9 @@
   "main": "app.js",
   "dependencies": {
     "express": "~4.10.1",
-    "body-parser": "~1.9.2"
+    "body-parser": "~1.9.2",
+    "mongoose": "~3.8.18",
+    "node-restful": "~0.1.17",
+    "strava-v3": "~1.5.2"
   }
 }

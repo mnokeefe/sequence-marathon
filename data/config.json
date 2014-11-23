@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Matt O'Keefe",
+    "goal_time": "2:59",
+    "quote": "Stuff and or things",
+    "on_strava": true,
+    "strava_id": "679609"
+  },
+  {
+    "name": "Richard Shearman",
+    "goal_time": "3:59",
+    "quote": "Stuff and or things",
+    "on_strava": true,
+    "strava_id": "3930857"
+  },
+  {
+    "name": "Lloyd Wheeler",
+    "goal_time": "?:??",
+    "quote": "Stuff and or things",
+    "on_strava": true,
+    "strava_id": "5476049"
+  },
+  {
+    "name": "Sarah Scott",
+    "goal_time": "?:??",
+    "quote": "Stuff and or things",
+    "on_strava": true,
+    "strava_id": "5474799"
+  }
+]
